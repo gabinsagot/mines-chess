@@ -10,6 +10,7 @@ Exécuter le fichier main.py, et jouer !
 Pour déplacer une pièce, cliquer sur la pièce, puis cliquer sur sa position souhaitée (ces dernières sont alors grisées).
 
 **Etat des lieux du projet**
+
 Voici une liste de ce qui fonctionne :
 - Les déplacements licites des pièces ont tous été implémentés
 - Le roque fonctionne (et est impossible une fois que le roi a bougé)
