@@ -7,7 +7,7 @@ Installer les librairies présentes dans le fichier requirement.txt en faisant :
     pip install -r requirements.txt
 
 Exécuter le fichier main.py, et jouer !
-Pour déplacer une pièce, cliquer sur la pièce, puis cliquer sur sa position souhaitée (elle est alors grisée).
+Pour déplacer une pièce, cliquer sur la pièce, puis cliquer sur sa position souhaitée (ces dernières sont alors grisées).
 
 **Etat des lieux du projet**
 Voici une liste de ce qui fonctionne :
