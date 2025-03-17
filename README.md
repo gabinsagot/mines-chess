@@ -1,5 +1,5 @@
 # chess
-**Projet python avancé de Samuel Bourdeau, Gabin Sagot, Yanis Hadj Mohand**
+**Projet python avancé de Samuel Bourdeau, Gabin Sagot, Yanis Hadj Mohand, Béranger Des Clers De Beaumets**
 
 Pour jouer au jeu d'échecs  :
 
